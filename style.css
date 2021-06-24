@@ -25,7 +25,7 @@ width: 100px
 .main_div label
 {
     background: white;
-    padding: 310px;
+    padding: 30px;
     margin-top: 10px;
     margin-bottom: 0px;
     box-shadow: 5px 5px 18px white;
@@ -59,7 +59,7 @@ width: 100px
     box-shadow: 5px 5px 18px white;
 }
 
-.fooster_div img
+.footer_div img
 {
     width:70px;
 }
